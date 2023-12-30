@@ -35,6 +35,7 @@ let myYoutubename = "hiteshchoudhary.com"
 let anothername = myYoutubename
 anothername = "chaiaurcode"
 
+
 console.log(anothername);
 console.log(myYoutubename);
 
